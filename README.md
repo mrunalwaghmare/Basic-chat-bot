@@ -1,3 +1,5 @@
+![Screenshot (264)](https://github.com/user-attachments/assets/b16ec9dc-6a18-453f-8528-4f2cd50240d4)
+
 # 🤖 Multilingual Chatbot using Python
 
 A simple, interactive **desktop chatbot** built with Python and `Tkinter` GUI. It supports **text input**, **speech recognition**, and **multilingual translation** (English, Hindi, and Marathi). The bot responds based on predefined messages and speaks back using Google Text-to-Speech.
